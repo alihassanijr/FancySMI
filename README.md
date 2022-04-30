@@ -6,9 +6,12 @@ Just a stylized `nvidia-smi`.
 ./fancy-smi
 ```
 
+![](preview.png)
+
 ## Requirements
 * Python 3.6 and above
-* `rich` package: 
+* `rich` package:
+ 
 ```shell
 pip3 install rich
 ```
@@ -18,3 +21,4 @@ Use the `-r` arg to set a refresh rate:
 ```shell
 ./fancy-smi -r 1
 ```
+
